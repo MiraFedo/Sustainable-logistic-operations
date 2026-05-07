@@ -1,0 +1,23 @@
+node_id,type,name,city,country,latitude,longitude,annual_teu_millions,coast,notes
+S01,stadium,MetLife Stadium,East Rutherford NJ,USA,40.8128,-74.0742,,,
+S02,stadium,Mercedes-Benz Stadium,Atlanta GA,USA,33.7553,-84.4006,,,
+S03,stadium,Gillette Stadium,Foxborough MA,USA,42.0909,-71.2643,,,
+S04,stadium,AT&T Stadium,Arlington TX,USA,32.7473,-97.0945,,,
+S05,stadium,NRG Stadium,Houston TX,USA,29.6847,-95.4107,,,
+S06,stadium,Arrowhead Stadium,Kansas City MO,USA,39.0489,-94.4839,,,
+S07,stadium,SoFi Stadium,Inglewood CA,USA,33.9534,-118.3387,,,
+S08,stadium,Hard Rock Stadium,Miami Gardens FL,USA,25.9580,-80.2389,,,
+S09,stadium,Lincoln Financial Field,Philadelphia PA,USA,39.9008,-75.1675,,,
+S10,stadium,Levi's Stadium,Santa Clara CA,USA,37.4030,-121.9700,,,
+S11,stadium,Lumen Field,Seattle WA,USA,47.5952,-122.3316,,,
+S12,stadium,BMO Field,Toronto ON,Canada,43.6332,-79.4185,,,
+S13,stadium,BC Place,Vancouver BC,Canada,49.2767,-123.1119,,,
+S14,stadium,Estadio Azteca,Mexico City,Mexico,19.3029,-99.1505,,,
+S15,stadium,Estadio Akron,Guadalajara,Mexico,20.6816,-103.4628,,,
+S16,stadium,Estadio BBVA,Monterrey,Mexico,25.6692,-100.2447,,,
+D01,depot,Port of Los Angeles / Long Beach,San Pedro CA,USA,33.7395,-118.2610,17.5,Pacific,Largest US container gateway; primary trans-Pacific entry from Asia
+D02,depot,Port of New York / New Jersey,Newark NJ,USA,40.6840,-74.1480,7.2,Atlantic,Largest US East Coast port; serves Northeast corridor
+D03,depot,Port of Houston,Houston TX,USA,29.6080,-95.0145,3.8,Gulf,Major Gulf gateway; covers Texas and inland US
+D04,depot,Port of Vancouver,Vancouver BC,Canada,49.2900,-123.1100,3.5,Pacific,Largest Canadian port; trans-Pacific entry for Canada
+D05,depot,Port of Manzanillo,Manzanillo,Mexico,19.0500,-104.3170,3.4,Pacific,Largest Mexican port; primary Pacific entry for Mexico
+D06,depot,Port of Veracruz,Veracruz,Mexico,19.2050,-96.1340,1.1,Gulf,Major Mexican Gulf port; serves central/eastern Mexico
